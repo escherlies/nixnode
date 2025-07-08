@@ -8,3 +8,4 @@ Use as base image:
 FROM ghcr.io/escherlies/nixnode/nixnode:latest
 ```
 
+.
